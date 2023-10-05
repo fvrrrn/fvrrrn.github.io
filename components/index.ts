@@ -1,6 +1,0 @@
-export * from './Hero'
-export * from './Nav/Nav'
-export * from './About'
-export * from './Work/Work'
-export * from './Projects'
-export * from './Contact'
