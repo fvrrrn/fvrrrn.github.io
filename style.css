@@ -1,5 +1,19 @@
+body {
+  font-family: sans-serif;
+  color: #222;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
 .max-w-screen-xl {
   max-width: 1280px;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .w-full {
@@ -18,10 +32,18 @@
   justify-content: center;
 }
 
+.justify-between {
+  justify-content: space-between;
+}
+
 .items-center {
   align-items: center;
 }
 
 .p-3 {
   padding: 0.25rem;
+}
+
+.ml-\[4em\] {
+  margin-left: 4em;
 }
